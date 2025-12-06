@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"cn-ZH\",\"title\":\"Frozen\",\"description\":\"一个基于安卓源码开发的高性能墓碑\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"Frozen\",\"description\":\"一个基于安卓源码开发的高性能墓碑\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"https://imgs-cf.shrairo.top/Frozen/Frozen-title.png\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

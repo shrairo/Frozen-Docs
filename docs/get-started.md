@@ -10,8 +10,7 @@
 
 + 已刷入[Lsposed](https://github.com/LSPosed/LSPosed)模块
 
-#### 对于Android15+的用户
-
+::: tip
 Android15+可能需要Lsposed IT或其它分支版本
 
 + [Lsposed IT](https://t.me/LSPosed/287)
@@ -19,6 +18,7 @@ Android15+可能需要Lsposed IT或其它分支版本
 + [Lsposed Irena](https://t.me/lsposed_irena)
 
 > 不建议使用Jingmatrix的Lsposed分支，可能存在未知的问题
+:::
 
 ## 使用说明
 
@@ -28,6 +28,18 @@ Android15+可能需要Lsposed IT或其它分支版本
 
 3. 重启你的手机，打开Frozen App配置并使用即可
 
+::: info
+当不满足如下条件时，你需要刷入Rekernel/Nkbinder模块，并在Frozen内打开对应的选项
+
++ 你的手机为OPPO或小米生产
+
++ 你的手机正在运行非原厂系统；包括但不限于移植包，类原生
+
+Rekernel：[Download](https://github.com/Sakion-Team/Re-Kernel)
+
+Nkbinder：[Download](https://github.com/myflavor/nkbinder)
+:::
+
 ## 版本说明
 
 正式版：顾名思义，正式且稳定的版本，推荐更新
@@ -36,7 +48,11 @@ Beta版：在每次正式版发版后的小功能更新，可更可不更
 
 Alpha版：测试版，存在不稳定性，可能导致未知的问题 
 
-<font color=red>Use as your own risk.</font>
+::: danger
+Use as your own risk
+
+使用前请三思而后行
+:::
 
 ## 开源说明
 

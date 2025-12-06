@@ -12,7 +12,8 @@
 <p>已刷入<a href="https://github.com/LSPosed/LSPosed" target="_blank" rel="noopener noreferrer">Lsposed</a>模块</p>
 </li>
 </ul>
-<h4 id="对于android15-的用户" tabindex="-1"><a class="header-anchor" href="#对于android15-的用户"><span>对于Android15+的用户</span></a></h4>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
 <p>Android15+可能需要Lsposed IT或其它分支版本</p>
 <ul>
 <li>
@@ -25,6 +26,7 @@
 <blockquote>
 <p>不建议使用Jingmatrix的Lsposed分支，可能存在未知的问题</p>
 </blockquote>
+</div>
 <h2 id="使用说明" tabindex="-1"><a class="header-anchor" href="#使用说明"><span>使用说明</span></a></h2>
 <ol>
 <li>
@@ -37,11 +39,30 @@
 <p>重启你的手机，打开Frozen App配置并使用即可</p>
 </li>
 </ol>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>当不满足如下条件时，你需要刷入Rekernel/Nkbinder模块，并在Frozen内打开对应的选项</p>
+<ul>
+<li>
+<p>你的手机为OPPO或小米生产</p>
+</li>
+<li>
+<p>你的手机正在运行非原厂系统；包括但不限于移植包，类原生</p>
+</li>
+</ul>
+<p>Rekernel：<a href="https://github.com/Sakion-Team/Re-Kernel" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>Nkbinder：<a href="https://github.com/myflavor/nkbinder" target="_blank" rel="noopener noreferrer">Download</a></p>
+</div>
 <h2 id="版本说明" tabindex="-1"><a class="header-anchor" href="#版本说明"><span>版本说明</span></a></h2>
 <p>正式版：顾名思义，正式且稳定的版本，推荐更新</p>
 <p>Beta版：在每次正式版发版后的小功能更新，可更可不更</p>
 <p>Alpha版：测试版，存在不稳定性，可能导致未知的问题</p>
-<font color=red>Use as your own risk.</font><h2 id="开源说明" tabindex="-1"><a class="header-anchor" href="#开源说明"><span>开源说明</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>Use as your own risk</p>
+<p>使用前请三思而后行</p>
+</div>
+<h2 id="开源说明" tabindex="-1"><a class="header-anchor" href="#开源说明"><span>开源说明</span></a></h2>
 <p>Frozen根据GPL-V3开源，可进行代码审查或遵照开源协议进行二次修改</p>
 <p>开源地址：<a href="https://github.com/MoWei-2077/Frozen" target="_blank" rel="noopener noreferrer">Github</a></p>
 </div></template>
