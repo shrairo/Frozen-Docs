@@ -19,8 +19,6 @@ export default defineUserConfig({
       { text: '配置', link: '/introduction.html' },
       { text: 'Frozen下载站', link: 'https://d.anmoc.top'}
     ],
-
-    repo: 'https://github.com/MoWei-2077/Frozen'
   }),
 
   bundler: viteBundler(),
