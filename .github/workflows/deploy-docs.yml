@@ -3,9 +3,6 @@ name: docs
 
 on:
   # trigger deployment on every push to main branch
-  push:
-    branches: [main]
-  # trigger deployment manually
   workflow_dispatch:
 
 jobs:
@@ -20,6 +17,8 @@ jobs:
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
+        with:
+          version: 9
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
