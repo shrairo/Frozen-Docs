@@ -30,14 +30,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     copyright: 'CC-BY-4.0',
 
-    contributors: {
-      mode: 'inline',
-    },
-
-    plugins: {
-      // 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
-      git: process.env.NODE_ENV === 'true'
-    },
+    plugins: { git: true },
 
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
     hostname: 'https://icebook.shrairo.top',
