@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: 配置详解
-    link: /introduction.html
+    link: /config.html
     type: secondary
 
 features:

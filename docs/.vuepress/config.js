@@ -16,7 +16,7 @@ export default defineUserConfig({
 
     navbar: [
       { text: '主页', link: '/' },
-      { text: '配置', link: '/introduction.html' },
+      { text: '配置', link: '/config.html' },
       { text: 'Frozen下载站', link: 'https://d.anmoc.top'}
     ],
   }),
