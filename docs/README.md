@@ -5,12 +5,12 @@ config:
   -
     type: hero
     full: true
-    forceDark: false
+    forceDark: true
     effect: tint-plate
     hero:
       name: Frozen
       tagline: Tombstone Module
-      text: 第三方安卓墓碑，实现堪比 IOS 类似的完美墓碑机制
+      text: 第三方安卓墓碑，实现堪比 IOS 的完美墓碑机制
       actions:
         -
           theme: brand
