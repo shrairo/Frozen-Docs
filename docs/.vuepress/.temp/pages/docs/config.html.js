@@ -1,4 +1,4 @@
-import comp from "E:/Tmp/Frozen-Docs/docs/.vuepress/.temp/pages/docs/config.html.vue"
+import comp from "E:/Code Web/Frozen-Docs/docs/.vuepress/.temp/pages/docs/config.html.vue"
 const data = JSON.parse("{\"path\":\"/docs/config.html\",\"title\":\"配置详解\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"readingTime\":{\"minutes\":3.54,\"words\":1063},\"git\":{},\"filePathRelative\":\"docs/config.md\",\"headers\":[]}")
 export { comp, data }
 

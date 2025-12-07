@@ -55,7 +55,8 @@
 </div>
 <h2 id="开源说明" tabindex="-1"><a class="header-anchor" href="#开源说明"><span>开源说明</span></a></h2>
 <p>Frozen根据GPL-V3开源，可进行代码审查或遵照开源协议进行二次修改</p>
-<p>开源地址：<a href="https://github.com/MoWei-2077/Frozen" target="_blank" rel="noopener noreferrer">Github</a></p>
+<p>模块开源地址：<a href="https://github.com/MoWei-2077/FrozenVS" target="_blank" rel="noopener noreferrer">Github</a></p>
+<p>管理器开源地址：<a href="https://github.com/MoWei-2077/FrozenApp" target="_blank" rel="noopener noreferrer">Github</a></p>
 </div></template>
 
 

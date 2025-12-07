@@ -106,7 +106,7 @@ var useLastUpdated = (enabled = true) => {
 var VPHeader = ({ level = 2, text, anchor }) => h(`h${level || 2}`, { id: anchor, tabindex: "-1" }, h("a", { href: `#${anchor}`, class: "header-anchor" }, h("span", text)));
 
 // node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/components/GitContributors.js
-import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/contributors.css";
+import "E:/Code Web/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/contributors.css";
 var GitContributor = ({ name, url, avatar }) => h(url ? "a" : "span", {
   href: url,
   target: "_blank",
@@ -142,8 +142,8 @@ var GitContributors = defineComponent({
 });
 
 // node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/components/GitChangelog.js
-import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/vars.css";
-import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/changelog.css";
+import "E:/Code Web/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/vars.css";
+import "E:/Code Web/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_7e24da77e5db44c236b83396ca3978d6/node_modules/@vuepress/plugin-git/lib/client/styles/changelog.css";
 var GitChangelog = defineComponent({
   name: "GitChangelog",
   props: {

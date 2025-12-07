@@ -10,5 +10,5 @@ export default defineNavbarConfig([
   { text: '主页', link: '/', icon: 'material-symbols:home-outline' },
   { text: '开始', link: '/docs/get-started', icon: 'material-symbols:rocket-launch-outline' },
   { text: '配置', link: '/docs/config.html', icon: 'material-symbols:settings-outline' },
-  { text: 'Frozen下载站', link: 'https://d.anmoc.top', icon: 'material-symbols:download-outline' }
+  { text: 'Frozen下载站', link: 'https://d.anmoc.top', icon: 'material-symbols:cloud-download' }
 ])
