@@ -1,20 +1,37 @@
 {
-  "name": "frozen-docs",
-  "description": "A tombstone for enhancing the Android device experience",
-  "version": "0.0.1",
-  "license": "MIT",
+  "name": "frozen",
   "type": "module",
+  "version": "1.0.0",
+  "description": "一个基于安卓源码开发的高性能墓碑",
+  "packageManager": "pnpm@10.24.0",
+  "author": "Cassiopeia <m5498@outlook.com>",
+  "license": "MIT",
   "scripts": {
-    "docs:build": "vuepress build docs",
-    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
     "docs:dev": "vuepress dev docs",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.20",
-    "@vuepress/theme-default": "2.0.0-rc.88",
-    "sass-embedded": "^1.86.0",
-    "vue": "^3.5.13",
-    "vuepress": "2.0.0-rc.20"
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "http-server": "^14.1.1",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.25",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-plume": "1.0.0-rc.181"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild"
+    ]
+  },
+  "engines": {
+    "node": "^20.6.0 || >=22.0.0"
+  },
+  "dependencies": {
+    "ogl": "^1.0.11",
+    "three": "^0.181.2"
   }
 }

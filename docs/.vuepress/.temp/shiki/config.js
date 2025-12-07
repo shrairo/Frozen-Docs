@@ -1,0 +1,17 @@
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+plugin-shiki@2.0._afcfc077bcecb52b950e51af01c707e3/node_modules/@vuepress/plugin-shiki/lib/client/styles/shiki.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/line-numbers.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-diff.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-error-level.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-focus.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-highlight.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/notation-word-highlight.css"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/collapsed-lines.css"
+import { setupCollapsedLines } from "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/index.js"
+import "E:/Tmp/Frozen-Docs/node_modules/.pnpm/@vuepress+highlighter-helpe_d36828d8fb8a837801ac5baa71001b84/node_modules/@vuepress/highlighter-helper/lib/client/styles/code-block-title.css"
+export default {
+  setup() {
+    setupCollapsedLines()
+  },
+}
