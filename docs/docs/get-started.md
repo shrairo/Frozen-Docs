@@ -54,4 +54,6 @@ Use as your own risk
 
 Frozen根据GPL-V3开源，可进行代码审查或遵照开源协议进行二次修改
 
-开源地址：[Github](https://github.com/MoWei-2077/FrozenVS)
+模块开源地址：[Github](https://github.com/MoWei-2077/FrozenVS)
+
+管理器开源地址：[Github](https://github.com/MoWei-2077/FrozenApp)
