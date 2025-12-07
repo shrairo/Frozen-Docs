@@ -29,11 +29,7 @@ Android15+可能需要Lsposed IT或其它分支版本
 3. 重启你的手机，打开Frozen App配置并使用即可
 
 ::: info
-当不满足如下条件时，你需要刷入Rekernel/Nkbinder模块，并在Frozen内打开对应的选项
-
-+ 你的手机为OPPO或小米生产
-
-+ 你的手机正在运行非原厂系统；包括但不限于移植包，类原生
+由于Frozen还没有接入厂商的Binder，你需要刷入Rekernel/Nkbinder模块，并在Frozen内打开对应的选项
 
 Rekernel：[Download](https://github.com/Sakion-Team/Re-Kernel)
 
