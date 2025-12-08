@@ -65,7 +65,7 @@
 | 调试日志 | 日志记录更加详细运行状况 |  |
 
 ::: important
-Binder对于墓碑的体验至关重要，所以Binder冻结和临时解冻必须二选一，也就是说必须且仅能启用一个，如果你选择临时解冻，那你需要刷入Rekernel/Nkbinder模块。具体请参照[快速开始](https://icebook.shrairo.top/get-started.html#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+Binder对于墓碑的体验至关重要，所以Binder冻结和临时解冻必须二选一，也就是说必须且仅能启用一个，如果你选择临时解冻，那你需要刷入Rekernel/Nkbinder模块。具体请参照[快速开始](https://icebook.shrairo.top/docs/get-started.html#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 :::
 
 ## 推荐配置
