@@ -1,6 +1,7 @@
 # Frozen
 
-Frozen 是一个第三方 Android Tombstone 模块
+Frozen 是一个第三方 Android Tombstone 模块。
+
 本仓库包含其官方文档。
 
 [English](https://github.com/shrairo/Frozen-Docs/blob/main/README.md) | 中文
