@@ -1,10 +1,13 @@
 # Frozen
 
+Frozen 是一个第三方 Android Tombstone 模块
+本仓库包含其官方文档。
+
 [English](https://github.com/shrairo/Frozen-Docs/blob/main/README.md) | 中文
 
 ## 开发
 
-这是 Frozen 的官方文档。基于 [VuePress](https://vuepress.vuejs.org/) 和 [VuePress Theme Plume](https://theme-plume.vuejs.press/) 构建。
+这是 Frozen 的官方文档。它使用 [VuePress](https://vuepress.vuejs.org/) 和 [VuePress Theme Plume](https://theme-plume.vuejs.press/) 构建。
 
 ### 环境要求
 

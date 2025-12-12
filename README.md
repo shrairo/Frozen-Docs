@@ -1,12 +1,15 @@
 # Frozen
 
+Frozen is a third-party Android Tombstone Module
+This repository contains its official documentation.
+
 English | [中文](https://github.com/shrairo/Frozen-Docs/blob/main/README.zh-CN.md)
 
 ## Development
 
-This is a offical document for Frozen.It was based on [VuePress](https://vuepress.vuejs.org/) and [VuePress Theme Plume](https://theme-plume.vuejs.press/)
+This is an official documentation site for Frozen. It is built with [VuePress](https://vuepress.vuejs.org/) and [VuePress Theme Plume](https://theme-plume.vuejs.press/).
 
-### Request
+### Requirements
 
 + Node.js 18+
 + pnpm (recommended package manager)
