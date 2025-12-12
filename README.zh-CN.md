@@ -1,6 +1,6 @@
 # Frozen
 
-Frozen 是一个第三方 Android Tombstone 模块
+Frozen 是一个第三方安卓墓碑
 
 本仓库包含其官方文档
 
