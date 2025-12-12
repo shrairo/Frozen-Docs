@@ -1,6 +1,6 @@
 # Frozen
 
-Frozen is a third-party Android Tombstone Module
+Frozen is a third-party Android Tombstone Module.
 
 This repository contains its official documentation.
 
@@ -46,4 +46,4 @@ Welcome contributions to improve the documentation!
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0
+This project is licensed under the GNU General Public License v3.0.
