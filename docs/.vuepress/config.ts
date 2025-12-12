@@ -28,7 +28,6 @@ export default defineUserConfig({
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({
-    copyright: 'CC-BY-4.0',
 
     plugins: { git: true },
 

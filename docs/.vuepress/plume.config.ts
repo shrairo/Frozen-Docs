@@ -33,7 +33,7 @@ export default defineThemeConfig({
    * 文章版权信息
    * @see https://theme-plume.vuejs.press/guide/features/copyright/
    */
-   copyright: true,
+   copyright: false,
 
   // prevPage: true,   // 是否启用上一页链接
   // nextPage: true,   // 是否启用下一页链接
@@ -41,8 +41,8 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-     message: 'GPL-V3 License | Copyright © 2025 Frozen Dev Team',
-     copyright: '',
+     message: 'Copyright © 2025 Frozen Dev Team',
+     copyright: 'GPL-3.0 License',
    },
 
   /**
