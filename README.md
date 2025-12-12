@@ -1,27 +1,45 @@
-# frozen
+# Frozen
 
-The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
+English | [中文](https://github.com/shrairo/Frozen-Docs/blob/main/README.zh-CN.md)
 
-## Install
+## Development
+
+This is a offical document for Frozen.It was based on [VuePress](https://vuepress.vuejs.org/) and [VuePress Theme Plume](https://theme-plume.vuejs.press/)
+
+### Request
+
++ Node.js 18+
++ pnpm (recommended package manager)
+
+### Local Development
 
 ```sh
-pnpm i
-```
+# Clone the repository
+git clone https://github.com/shrairo/Frozen-Docs
+cd ./Frozen-Docs
 
-## Usage
+# Install dependencies
+pnpm install
 
-```sh
 # start dev server
 pnpm docs:dev
+```
+
+```sh
 # build for production
 pnpm docs:build
+
 # preview production build in local
 pnpm docs:preview
+
 # update vuepress and theme
 pnpm vp-update
 ```
 
-## Documents
+## Contributing
 
-- [vuepress](https://vuepress.vuejs.org/)
-- [vuepress-theme-plume](https://theme-plume.vuejs.press/)
+Welcome contributions to improve the documentation!
+
+## License
+
+This project is licensed under the GNU General Public License v3.0
