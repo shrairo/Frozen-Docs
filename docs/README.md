@@ -15,9 +15,9 @@ config:
         -
           theme: brand
           text: 快速开始
-          link: /docs/get-started.html
+          link: /page/get-started.html
         -
           theme: alt
           text: 配置详解
-          link: /docs/config.html
+          link: /page/config.html
 ---
