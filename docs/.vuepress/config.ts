@@ -35,9 +35,9 @@ export default defineUserConfig({
     hostname: 'https://icebook.shrairo.top',
 
     /* 文档仓库配置，用于 editLink */
-    // docsRepo: '',
-    // docsDir: 'docs',
-    // docsBranch: '',
+     docsRepo: 'https://github.com/shrairo/Frozen-Docs',
+     docsDir: 'docs',
+     docsBranch: 'main',
 
     /* 页内信息 */
     // editLink: true,
