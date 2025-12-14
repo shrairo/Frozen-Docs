@@ -98,7 +98,7 @@
 <p>以上冻结设置需重启后生效</p>
 </div>
 <h3 id="余下配置项" tabindex="-1"><a class="header-anchor" href="#余下配置项"><span>余下配置项</span></a></h3>
-<p>此为剩余的配置项，可参照说明与你的需求自行修改，如果你想开箱即用，请参照<a href="https://icebook.shrairo.top/config.html#%E6%8E%A8%E8%8D%90%E9%85%8D%E7%BD%AE" target="_blank" rel="noopener noreferrer">推荐配置</a></p>
+<p>此为剩余的配置项，可参照说明与你的需求自行修改，如果你想开箱即用，请参照<VPLink href="/page/config.html#%E6%8E%A8%E8%8D%90%E9%85%8D%E7%BD%AE">推荐配置</VPLink></p>
 <table>
 <thead>
 <tr>
@@ -182,7 +182,7 @@
 </table>
 <div class="hint-container important">
 <p class="hint-container-title">重要</p>
-<p>Binder对于墓碑的体验至关重要，所以Binder冻结和临时解冻必须二选一，也就是说必须且仅能启用一个，如果你选择临时解冻，那你需要刷入Rekernel/Nkbinder模块。具体请参照<a href="https://icebook.shrairo.top/docs/get-started.html#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" target="_blank" rel="noopener noreferrer">快速开始</a></p>
+<p>Binder对于墓碑的体验至关重要，所以Binder冻结和临时解冻必须二选一，也就是说必须且仅能启用一个，如果你选择临时解冻，那你需要刷入Rekernel/Nkbinder模块。具体请参照<VPLink href="/page/get-started.html#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E">快速开始</VPLink></p>
 </div>
 <h2 id="推荐配置" tabindex="-1"><a class="header-anchor" href="#推荐配置"><span>推荐配置</span></a></h2>
 <p>如果你不懂该如何配置，请参照下图</p>
