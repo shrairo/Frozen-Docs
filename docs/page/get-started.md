@@ -31,6 +31,8 @@ Android15+可能需要Lsposed IT或其它分支版本
 ::: info
 由于Frozen还没有接入厂商的Binder，你需要刷入Rekernel/Nkbinder模块，并在Frozen内打开对应的选项
 
+建议优先使用Rekernel
+
 Rekernel：[Download](https://github.com/Sakion-Team/Re-Kernel)
 
 Nkbinder：[Download](https://github.com/myflavor/nkbinder)
