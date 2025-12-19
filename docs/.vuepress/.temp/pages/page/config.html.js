@@ -1,5 +1,5 @@
 import comp from "E:/Code Web/Frozen-Docs/docs/.vuepress/.temp/pages/page/config.html.vue"
-const data = JSON.parse("{\"path\":\"/page/config.html\",\"title\":\"配置详解\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"readingTime\":{\"minutes\":3.56,\"words\":1069},\"git\":{\"createdTime\":1765084923000,\"updatedTime\":1765722313000,\"contributors\":[{\"name\":\"Cassiopeia\",\"username\":\"Cassiopeia\",\"email\":\"m5498@outlook.com\",\"commits\":6,\"avatar\":\"https://avatars.githubusercontent.com/Cassiopeia?v=4\",\"url\":\"https://github.com/Cassiopeia\"}]},\"filePathRelative\":\"page/config.md\",\"headers\":[]}")
+const data = JSON.parse("{\"path\":\"/page/config.html\",\"title\":\"配置详解\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"readingTime\":{\"minutes\":3.56,\"words\":1069},\"git\":{\"createdTime\":1765084923000,\"updatedTime\":1765722895000,\"contributors\":[{\"name\":\"Cassiopeia\",\"username\":\"Cassiopeia\",\"email\":\"m5498@outlook.com\",\"commits\":7,\"avatar\":\"https://avatars.githubusercontent.com/Cassiopeia?v=4\",\"url\":\"https://github.com/Cassiopeia\"}]},\"filePathRelative\":\"page/config.md\",\"headers\":[]}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

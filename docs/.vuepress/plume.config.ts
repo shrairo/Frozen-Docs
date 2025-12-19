@@ -18,12 +18,12 @@ import collections from './collections'
  * @see https://theme-plume.vuejs.press/config/theme/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: 'https://imgs-cf.shrairo.top/Frozen/Frozen-title.png',
 
   appearance: true,  // 配置 深色模式
 
   social: [
-    { icon: 'github', link: 'https://github.com/MoWei-2077/FrozenVS' },
+    { icon: 'github', link: 'https://github.com/shrairo/Frozen-Docs' },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
@@ -49,7 +49,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/theme/#profile
    */
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
+    avatar: 'https://imgs-cf.shrairo.top/Frozen/Frozen-title.png',
     name: 'Frozen',
     description: '一个基于安卓源码开发的高性能墓碑',
     // circle: true,
